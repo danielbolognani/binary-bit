@@ -16,9 +16,9 @@ let	fs = require('node:fs');
 	.argv;
  */
 
-module.exports = binaryBit;
-module.exports = is64bits;
-module.exports = is32bits;
+module.exports = { 	binaryBit,
+					is64bits,
+					is32bits }
 
 /*
 Windows Get Adrress pointed at 0x3c~0x3d
