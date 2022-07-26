@@ -1,6 +1,6 @@
 {
 	"name": "binary-bit",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"description": "Return if binary is 32 or 64 bit",
 	"homepage": "https://github.com/danielbolognani/binary-bit",
 	"main": "index.js",
