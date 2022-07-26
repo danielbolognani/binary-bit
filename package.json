@@ -1,0 +1,29 @@
+{
+	"name": "binary-bit",
+	"version": "0.0.1",
+	"description": "Return if binary is 32 or 64 bit",
+	"homepage": "https://github.com/danielbolognani/binary-bit",
+	"main": "index.js",
+	"directories": {
+		"doc": "docs",
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+	},
+	"author": "daniel.bolognani",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/danielbolognani/binary-bit.git"
+	},
+	"devDependencies": {
+		"shelljs": "^0.8.4"
+	},
+	"keywords": [
+		"binary", 
+		"bit",
+		"windows",
+		"32bits",
+		"64bits"]
+}
