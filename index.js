@@ -40,7 +40,7 @@ function binaryBit(binFile) {
 			binData = fs.readFileSync(binFile);
 		}
 		catch {
-			throw new error ("Error reading file " + binFile);
+			throw new Error ("Error reading file " + binFile);
 		}
 		//console.log(binData.buffer);
 		if (binData.length > 62) {
