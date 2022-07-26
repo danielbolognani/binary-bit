@@ -8,9 +8,6 @@
 		"doc": "docs",
 		"lib": "lib"
 	},
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-	},
 	"author": "daniel.bolognani",
 	"license": "MIT",
 	"repository": {

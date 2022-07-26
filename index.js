@@ -59,7 +59,7 @@ function binaryBit(binFile) {
 }
 
 function is64bits(binFile) {
-	return binaryBit(binFile) == "64);
+	return binaryBit(binFile) == "64");
 }
 function is32bits(binFile) {
 	return binaryBit(binFile) == "32";
